@@ -90,7 +90,7 @@ var gameID= "";
     const options = {
       method: 'GET',
       headers: {
-        'X-RapidAPI-Key': 'ff335927f9msh39686095c4a23c5p1d8c91jsn4609590eb49a',
+        'X-RapidAPI-Key': '',
         'X-RapidAPI-Host': 'contextualwebsearch-websearch-v1.p.rapidapi.com'
       }
     };
